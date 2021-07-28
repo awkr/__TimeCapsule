@@ -3,3 +3,9 @@ Saved/
 
 # Compiled source files for the engine to use
 Intermediate/
+
+# Built data for maps
+*_BuiltData.uasset
+
+# Cache files for the editor to use
+DerivedDataCache/
