@@ -7,6 +7,8 @@ Intermediate/
 # Built data for maps
 *_BuiltData.uasset
 
+Binaries/
+
 # Cache files for the editor to use
 DerivedDataCache/
 
